@@ -1,10 +1,11 @@
 ---
 swagger: "2.0"
 x-collection-name: Azure Application Insights
-x-complete: 1
+x-complete: 0
 info:
-  title: Application Insights API
-  description: application-insights-in-preview-is-an-allinone-telemetry-solution-that-can-help-you-detect-issues-triage-impact-and-solve-problems-in-your-web-apps-and-services--it-provides-deep-diagnostics-and-realtime-insights-while-being-a-seamless-part-of-your-alm-processes-through-visual-studio-visual-studio-team-services-and-azure-diagnostics-integrations--it-supports-asp-net-j2ee-and-most-of-the-popular-web-technologies-for-web-apps-on-azure-or-on-your-own-servers-
+  title: Azure Application Insights API List Web Tests
+  description: Get all Application Insights web test alerts definitioned within a
+    subscription.
   version: 1.0.0
 host: management.azure.com
 basePath: /
@@ -219,4 +220,17 @@ paths:
           description: OK
       tags:
       - Web Tests
+x-streamrank:
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
 ---

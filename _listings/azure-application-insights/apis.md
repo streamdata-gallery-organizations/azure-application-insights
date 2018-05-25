@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Application Insights
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/apis.md
 specificationVersion: "0.14"
 apis:
@@ -23,9 +23,9 @@ apis:
   tags: Operations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/providersmicrosoftinsightsoperations-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/providersmicrosoft-insightsoperations-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/providersmicrosoftinsightsoperations-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/providersmicrosoft-insightsoperations-get-openapi.md
 - name: Azure Application Insights API List Components
   x-api-slug: azure-application-insights-api
   description: Gets a list of all Application Insights components within a subscription.
@@ -35,9 +35,9 @@ apis:
   tags: Components
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidprovidersmicrosoftinsightscomponents-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidprovidersmicrosoft-insightscomponents-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidprovidersmicrosoftinsightscomponents-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidprovidersmicrosoft-insightscomponents-get-openapi.md
 - name: Azure Application Insights API List Components By Resource Group
   x-api-slug: azure-application-insights-api
   description: Gets a list of Application Insights components within a resource group.
@@ -47,9 +47,9 @@ apis:
   tags: Components
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightscomponents-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightscomponents-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightscomponents-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightscomponents-get-openapi.md
 - name: Azure Application Insights API Delete Components
   x-api-slug: azure-application-insights-api
   description: Deletes an Application Insights component.
@@ -59,9 +59,9 @@ apis:
   tags: Components
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightscomponentsresourcename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightscomponentsresourcename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightscomponentsresourcename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightscomponentsresourcename-delete-openapi.md
 - name: Azure Application Insights API Get Components
   x-api-slug: azure-application-insights-api
   description: Returns an Application Insights component.
@@ -71,9 +71,9 @@ apis:
   tags: Components
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightscomponentsresourcename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightscomponentsresourcename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightscomponentsresourcename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightscomponentsresourcename-get-openapi.md
 - name: Azure Application Insights API Create or Update Components
   x-api-slug: azure-application-insights-api
   description: 'Creates (or updates) an Application Insights component. Note: You
@@ -84,7 +84,7 @@ apis:
   tags: Components
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightscomponentsresourcename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightscomponentsresourcename-put-openapi.md
 - name: Azure Application Insights API Update Components Tags
   x-api-slug: azure-application-insights-api
   description: Updates an existing component's tags. To update other fields use the
@@ -95,7 +95,7 @@ apis:
   tags: Components
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightscomponentsresourcename-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightscomponentsresourcename-patch-openapi.md
 - name: Azure Application Insights API Web Tests By Resource Group
   x-api-slug: azure-application-insights-api
   description: Get all Application Insights web tests defined within a specified resource
@@ -106,7 +106,7 @@ apis:
   tags: Web Tests
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightswebtests-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightswebtests-get-openapi.md
 - name: Azure Application Insights API Get Web Tests
   x-api-slug: azure-application-insights-api
   description: Get a specific Application Insights web test definition.
@@ -116,7 +116,7 @@ apis:
   tags: Web Tests
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightswebtestswebtestname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightswebtestswebtestname-get-openapi.md
 - name: Azure Application Insights API Create or Update Web Tests
   x-api-slug: azure-application-insights-api
   description: Creates or updates an Application Insights web test definition.
@@ -126,7 +126,7 @@ apis:
   tags: Web Tests
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightswebtestswebtestname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightswebtestswebtestname-put-openapi.md
 - name: Azure Application Insights API Update Web Tests Tags
   x-api-slug: azure-application-insights-api
   description: Creates or updates an Application Insights web test definition.
@@ -136,7 +136,7 @@ apis:
   tags: Web Tests
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightswebtestswebtestname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightswebtestswebtestname-patch-openapi.md
 - name: Azure Application Insights API Delete Web Tests
   x-api-slug: azure-application-insights-api
   description: Deletes an Application Insights web test.
@@ -146,7 +146,7 @@ apis:
   tags: Web Tests
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftinsightswebtestswebtestname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-insightswebtestswebtestname-delete-openapi.md
 - name: Azure Application Insights API List Web Tests
   x-api-slug: azure-application-insights-api
   description: Get all Application Insights web test alerts definitioned within a
@@ -157,7 +157,7 @@ apis:
   tags: Web Tests
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidprovidersmicrosoftinsightswebtests-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/subscriptionssubscriptionidprovidersmicrosoft-insightswebtests-get-openapi.md
 - name: Azure Application Insights API
   x-api-slug: azure-application-insights-api
   description: Application Insights (in preview) is an all-in-one telemetry solution
