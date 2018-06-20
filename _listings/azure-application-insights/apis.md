@@ -7,10 +7,10 @@ description: Get rich performance monitoring, powerful alerting, and easy-to-con
   perform a root cause analysis to find and fix the issue.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/performance-management.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure Application Insights
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/apis.md
 specificationVersion: "0.14"
 apis:
