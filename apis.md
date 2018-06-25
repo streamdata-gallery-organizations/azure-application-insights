@@ -5,7 +5,7 @@ description: This is a repository of azure application insights APIs, self-conta
   surrounding operations.
 image: http://template.streamdata.gallery/assets/azure-application-insights.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://azure-application-insights.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
