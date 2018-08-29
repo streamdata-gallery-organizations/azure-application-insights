@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Azure Application Insights",
+	"description": "This is a repository of azure application insights APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/azure-application-insights.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://azure-application-insights.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Azure Application Insights",
+			"x-api-slug": "azure-application-insights",
+			"description": "Get rich performance monitoring, powerful alerting, and easy-to-consume dashboards to help ensure your applications are available and performing as you expect. Quickly see if you have a problem, how many customers are affected, and perform a root cause analysis to find and fix the issue.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/performance-management.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/application-insights/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Azure Application Insights",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Azure Application Insights",
+	"include": [
+		{
+			"name": "Azure Application Insights",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-application-insights/master/_listings/azure-application-insights/apis.yaml"
+		}
+	]
+}
